@@ -10,6 +10,7 @@ Sublime text 2 command line just link to Sublime Text 2.app for Mac OS X.
 	Step.4 $open install-sublime-cli
 #Usage
 Important: You must restart terminal.
+
 if you want to Open the project from directory on /User/Piece/newProject/. For example.
 	
 	$sublime /User/Piece/newProject
@@ -17,6 +18,10 @@ if you want to Open the project from directory on /User/Piece/newProject/. For e
 Or you just want to open file called test.php in your current directory. For example.
 	
 	$sublome ./test.php
+
+If you don't want to open any project , just run Sublime Text 2
+	
+	$sublime
 	
 #Remove
 	$sudo rm -rf ~/.sublime
