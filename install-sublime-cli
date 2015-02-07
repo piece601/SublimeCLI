@@ -1,0 +1,4 @@
+mkdir ~/.sublime
+printf "#!/bin/bash\n\n/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl \$1" > ~/.sublime/sublime
+chmod 744 ~/.sublime/sublime
+printf "\n\nexport PATH=\"~/.sublime:\$PATH\" # Sublime Command Line" >> .bash_profile
