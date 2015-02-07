@@ -1,5 +1,6 @@
-# SublimeCLI
-Sublime command line link to Sublime Text 2.app for Mac OS X.
+# Sublime Text 2 CLI
+You can use sublime text 2 to open file in terminal.
+Sublime text 2 command line just link to Sublime Text 2.app for Mac OS X.
 # Notice
 	Following, you will see $ syntax, this is command line point.
 # Install
