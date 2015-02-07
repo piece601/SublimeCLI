@@ -26,4 +26,5 @@ If you don't want to open any project , just run Sublime Text 2
 #Remove
 	$sudo rm -rf ~/.sublime
 
-#If you like this, Please start my repository. Thank you~
+#Thanks
+If you like this, Please star my repository.
